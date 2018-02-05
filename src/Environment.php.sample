@@ -1,0 +1,14 @@
+<?php
+
+define('ENVIRONMENT_HOSTNAME', 'https://website.com');
+
+define('PHP_ENV', 'local');
+
+define("DB_HOST",'localhost');
+define("DB_USER",'user');
+define("DB_PASSWORD",'password');
+define("DB_NAME",'databasename');
+define("MEMCACHED_HOST",'localhost');
+define("MEMCACHED_PORT",'11211');
+
+?>
